@@ -6,3 +6,5 @@ Strong typing → fewer runtime errors.
 LINQ & async/await → concise and efficient code.
 Integration with EF Core → easy database access.
 Cross-platform → runs on Windows, Linux, macOS.
+
+Microsoft has made .net core framework to be cross compatible
